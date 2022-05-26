@@ -1,0 +1,18 @@
+{
+    "name": "Echo Test",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "ed7933f0-dcfe-11ec-b2f9-af0356865fd1",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\f.diluca\\source\\repos\\EchoBot-Test\\Echo Test.bot",
+    "overrides": null
+}
